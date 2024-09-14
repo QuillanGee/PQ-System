@@ -3,7 +3,8 @@
 
 ## Chatting with ChatGPT
 
-**Defnition of PQ-System:** The PQ-system is a formal system introduced by Douglas Hofstadter in his book Gödel, Escher, Bach: An Eternal Golden Braid to illustrate how formal systems work. It is a simple string manipulation system, which allows us to explore basic ideas of formal logic, theorems, and axioms.
+### What is the PQ-System:
+**Definition:** The PQ-system is a formal system introduced by Douglas Hofstadter in his book Gödel, Escher, Bach: An Eternal Golden Braid to illustrate how formal systems work. It is a simple string manipulation system, which allows us to explore basic ideas of formal logic, theorems, and axioms.
 
 **Components of the PQ-System**
 The PQ-system consists of three symbols:
@@ -30,7 +31,7 @@ And if you know that
 /text{xp-Q-x}, /text{ then replace one or more p characters and form the pq one}
 
 
-## Examples of how PQ-Systems Parallel Coding Standards
+### Examples of how PQ-Systems Parallel Coding Standards
 The PQ-system shows us that formal systems consist of simple rules that can lead to complex and valid outcomes. We can see this in syntax and coding guidelines throughout all programming languages.
 
 In coding, you could think of a simple analogy to the PQ-system when dealing with loops or recursion. For example:
