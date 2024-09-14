@@ -30,7 +30,7 @@ And if you know that
 /text{xp-Q-x}, /text{ then replace one or more p characters and form the pq one}
 
 
-##Examples of how PQ-Systems Parallel Coding Standards
+## Examples of how PQ-Systems Parallel Coding Standards
 The PQ-system shows us that formal systems consist of simple rules that can lead to complex and valid outcomes. We can see this in syntax and coding guidelines throughout all programming languages.
 
 In coding, you could think of a simple analogy to the PQ-system when dealing with loops or recursion. For example:
