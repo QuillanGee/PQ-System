@@ -42,11 +42,11 @@ In coding, you could think of a simple analogy to the PQ-system when dealing wit
 
 For instance, in functional programming (Haskell, Python, etc.), you might define a recursive function to calculate the factorial:
 
-def factorial(n):
-    if n == 0:
-        return 1  # Base case (Axiom)
-    else:
-        return n * factorial(n - 1)  # Recursive step (Inference)
+    def factorial(n):
+        if n == 0:
+            return 1  # Base case (Axiom)
+        else:
+            return n * factorial(n - 1)  # Recursive step (Inference)
         
 This code adheres to a set of rules (syntax), and through valid transformations (recursive calls), it produces a result. The base case ensures the recursion halts, just like a valid axiom in a formal system ensures that derivations have a starting point.
 
