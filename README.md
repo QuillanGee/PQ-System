@@ -28,7 +28,7 @@ The PQ-system consists of three symbols:
 **(3)Axiom of the PQ-system**
 - The PQ-system has only one axiom, which is a starting point or a rule that defines what is initially considered true. The axiom schema is:
 
-    xp-Q-x-p-
+     xp-qx
 
 - In this schema, 𝑝 represents any number of dashes, and 𝑥 can represent any number of dashes as well. It allows us to create valid strings (theorems) within the system.
 
