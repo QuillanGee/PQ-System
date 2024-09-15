@@ -77,3 +77,35 @@ The PQ-system is part of Hofstadter's broader exploration of how meaning, self-r
 - Relates to Gödel’s theorems: Hofstadter uses it as a stepping stone to introduce readers to more complex ideas about logic, particularly Gödel’s incompleteness theorems.
 
 While the PQ-system itself doesn’t have historical roots beyond Hofstadter's book, it serves as a valuable conceptual tool for understanding the structure and behavior of formal systems in mathematics, logic, and computer science. Its simplicity allows for a hands-on exploration of how seemingly arbitrary symbols and rules can form the basis for more complex logical reasoning.
+
+
+### Current Research on the PQ-System
+
+Because the PQ-system is an illustrative system rather than one with practical applications, there hasn't been significant academic or theoretical research directly focused on it. The system's simplicity means that it doesn’t offer the same potential for development or application as more robust formal systems. Formal systems like propositional logic, predicate logic, and automated theorem proving have much broader applications and thus receive more attention from researchers.
+
+However, related fields continue to see active research:
+
+**(1)Formal Systems and Proof Theory:**
+
+Formal systems and their applications in proof theory and automated theorem proving are areas of active research. Systems such as Coq, Lean, and Isabelle are widely used for formal verification, mathematics, and logic research. These systems involve formal logic similar to the principles introduced through the PQ-system but are much more complex and powerful.
+The PQ-system’s purpose of teaching formal systems might indirectly contribute to the growing interest in formal methods and formal verification, especially in the verification of software and hardware systems for correctness and reliability.
+
+**(2)Theoretical Computer Science:**
+
+Research on type theory, lambda calculus, and formal grammars still touches on the basic principles that the PQ-system represents. These areas involve creating formal systems and ensuring their consistency, completeness, and applicability, which are deeper versions of the same concepts introduced by the PQ-system.
+While researchers aren’t studying the PQ-system specifically, the principles behind formal systems—like rule-based logic and inference—continue to shape work in areas like automata theory, formal languages, and computational logic.
+
+**(3)Educational Research:**
+
+There may be pedagogical studies that investigate how formal systems like the PQ-system can help students grasp foundational concepts in logic, computer science, and mathematics. Since the PQ-system is so effective at explaining the basic structure of formal systems, it could be used in introductory courses on logic, proof theory, or the theory of computation.
+
+**Broader Context: Research on Formal Logic and Systems**
+
+Although there isn’t ongoing research specifically on the PQ-system, the ideas behind it are foundational to many fields that are actively researched. For example:
+
+- Formal Verification: As more critical systems (like aerospace, medical devices, or financial systems) rely on software, researchers are constantly looking for ways to verify the correctness of algorithms. This ties back to the concept of proving theorems (like in the PQ-system), but with complex formal systems used to model real-world problems.
+
+- Artificial Intelligence: Some areas of AI, particularly knowledge representation and automated reasoning, deal with formal systems that derive conclusions from axioms using inference rules. These systems, while far more advanced than the PQ-system, operate on the same core principles.
+
+- Proof Assistants and Automated Theorem Proving: Tools like Lean, Coq, and Agda allow mathematicians and computer scientists to formally verify proofs. These systems rely on axioms and inference rules, much like the PQ-system, though they are orders of magnitude more complex.
+
