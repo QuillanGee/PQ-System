@@ -1,5 +1,5 @@
 # PQ-System
-**Question:** What is the pq system? And how can we use it to define a theorem and an axiom? How can you apply the PQ- system to our current coding standards? What is the history of the PQ-System? 
+**Question:** What is the pq system? And how can we use it to define a theorem and an axiom? How can you apply the PQ- system to our current coding standards? What is the history of the PQ-System? Because of its simplicity and use for formal systems, is their any research being done on the PQ-System to this day?
 
 ## Chatting with ChatGPT
 
