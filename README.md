@@ -67,7 +67,7 @@ In Gödel, Escher, Bach, Hofstadter uses the PQ-system and other formal systems 
 
 The PQ-system is part of Hofstadter's broader exploration of how meaning, self-reference, and complexity emerge from formal systems, which he connects to music (Johann Sebastian Bach), visual art (Maurits Escher), and mathematical logic (Gödel).
 
-Summary of the PQ-System’s Purpose
+**Summary of the PQ-System’s Purpose**
 - Designed by Douglas Hofstadter: It was created as an educational example to explain formal systems in his 1979 book.
 - Illustrates key concepts: The system shows how axioms, theorems, and inference rules interact, giving readers a basic understanding of formal logic and proof systems.
 - Relates to Gödel’s theorems: Hofstadter uses it as a stepping stone to introduce readers to more complex ideas about logic, particularly Gödel’s incompleteness theorems.
