@@ -51,9 +51,11 @@ For instance, in functional programming (Haskell, Python, etc.), you might defin
 This code adheres to a set of rules (syntax), and through valid transformations (recursive calls), it produces a result. The base case ensures the recursion halts, just like a valid axiom in a formal system ensures that derivations have a starting point.
 
 ### History of the PQ-System
+
 The PQ-system itself doesn’t have a long historical background in the sense of being a long-established formal system in mathematics or computer science. Instead, it was created as a conceptual example by Douglas Hofstadter in his 1979 Pulitzer Prize-winning book, Gödel, Escher, Bach: An Eternal Golden Braid. The PQ-system was designed as a simplified and illustrative tool to introduce readers to the concepts of formal systems, axioms, inference rules, and theorems, which are central to the fields of mathematical logic and formal proof theory.
 
 **Origins in Gödel, Escher, Bach**
+
 The PQ-system was introduced as a playful, symbolic system in Hofstadter’s book to help explain the ideas that underpin formal logic and Gödel’s incompleteness theorems. Hofstadter was interested in exploring how complex systems can arise from simple rules, and the PQ-system was one of several examples he used to demonstrate this principle. In the book, Hofstadter compares the PQ-system to more complex formal systems, such as those in mathematics, logic, and computer science.
 
 The purpose of the PQ-system was not to create a system with real-world applications but to provide an accessible model of formal systems that could be used to teach concepts like:
@@ -63,11 +65,13 @@ The purpose of the PQ-system was not to create a system with real-world applicat
 - Inference rules: The process of deriving new theorems from existing ones by applying strict logical transformations.
   
 **Connection to Gödel's Incompleteness Theorems**
+
 In Gödel, Escher, Bach, Hofstadter uses the PQ-system and other formal systems (like the MIU-system) to set the stage for discussing Kurt Gödel’s incompleteness theorems. Gödel’s theorems, published in 1931, showed that within any sufficiently powerful formal system (such as arithmetic), there are true statements that cannot be proven within the system. Hofstadter uses simple systems like the PQ-system to illustrate how formal rules work, laying the groundwork for readers to grasp the deeper implications of Gödel’s work.
 
 The PQ-system is part of Hofstadter's broader exploration of how meaning, self-reference, and complexity emerge from formal systems, which he connects to music (Johann Sebastian Bach), visual art (Maurits Escher), and mathematical logic (Gödel).
 
 **Summary of the PQ-System’s Purpose**
+
 - Designed by Douglas Hofstadter: It was created as an educational example to explain formal systems in his 1979 book.
 - Illustrates key concepts: The system shows how axioms, theorems, and inference rules interact, giving readers a basic understanding of formal logic and proof systems.
 - Relates to Gödel’s theorems: Hofstadter uses it as a stepping stone to introduce readers to more complex ideas about logic, particularly Gödel’s incompleteness theorems.
