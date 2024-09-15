@@ -71,4 +71,5 @@ Summary of the PQ-System’s Purpose
 - Designed by Douglas Hofstadter: It was created as an educational example to explain formal systems in his 1979 book.
 - Illustrates key concepts: The system shows how axioms, theorems, and inference rules interact, giving readers a basic understanding of formal logic and proof systems.
 - Relates to Gödel’s theorems: Hofstadter uses it as a stepping stone to introduce readers to more complex ideas about logic, particularly Gödel’s incompleteness theorems.
+
 While the PQ-system itself doesn’t have historical roots beyond Hofstadter's book, it serves as a valuable conceptual tool for understanding the structure and behavior of formal systems in mathematics, logic, and computer science. Its simplicity allows for a hands-on exploration of how seemingly arbitrary symbols and rules can form the basis for more complex logical reasoning.
