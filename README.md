@@ -3,7 +3,7 @@
 
 ## References
 - Gödel, Escher, Bach: [An Eternal Golden Braid](https://www.physixfan.com/wp-content/files/GEBen.pdf) by Douglas Hofstadter
-- [Electronic Solutions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=pq-systems+electronic+solutions&btnG=) by 
+- [Electronic Solutions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=pq-systems+electronic+solutions&btnG=) by Gerhard Mauthe (ABB T&D Management, Switzerland), Lothar Heinemann (ABB HV-Products, Germany),  Dirk Westermann (ABB HV-Technology, Switzerland)
 
 ## Chatting with ChatGPT
 
