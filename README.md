@@ -50,7 +50,7 @@ For instance, in functional programming (Haskell, Python, etc.), you might defin
         
 This code adheres to a set of rules (syntax), and through valid transformations (recursive calls), it produces a result. The base case ensures the recursion halts, just like a valid axiom in a formal system ensures that derivations have a starting point.
 
-###History of the PQ-System
+### History of the PQ-System
 The PQ-system itself doesn’t have a long historical background in the sense of being a long-established formal system in mathematics or computer science. Instead, it was created as a conceptual example by Douglas Hofstadter in his 1979 Pulitzer Prize-winning book, Gödel, Escher, Bach: An Eternal Golden Braid. The PQ-system was designed as a simplified and illustrative tool to introduce readers to the concepts of formal systems, axioms, inference rules, and theorems, which are central to the fields of mathematical logic and formal proof theory.
 
 **Origins in Gödel, Escher, Bach**
