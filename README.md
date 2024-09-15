@@ -2,8 +2,8 @@
 **Question:** What is the pq system? And how can we use it to define a theorem and an axiom? How can you apply the PQ- system to our current coding standards? Because of its simplicity and use for formal systems, is their any research being done on the PQ-System to this day? What is the history of the PQ-System? 
 
 ## References
-- Gödel, Escher, Bach: An Eternal Golden Braid by Douglas Hofstadter
-- [Electronic Solutions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=pq-systems+electronic+solutions&btnG=)
+- Gödel, Escher, Bach: [An Eternal Golden Braid](https://www.physixfan.com/wp-content/files/GEBen.pdf) by Douglas Hofstadter
+- [Electronic Solutions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=pq-systems+electronic+solutions&btnG=) by 
 
 ## Chatting with ChatGPT
 
